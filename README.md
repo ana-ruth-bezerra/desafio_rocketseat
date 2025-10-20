@@ -1,0 +1,1 @@
+Resolução do desafio prático proposto no módulo Estatística para Devs, do curso de IA do RocketSeat, em que é dado um dicionário de faturamento a ser tratado e do qual devem ser extraídas algumas informações, bem como a visualização de dados através de plots.
